@@ -1,0 +1,13 @@
+<SharedFlowBundle revision="1" name="Sharedflow">
+    <DisplayName></DisplayName>
+    <Description></Description>
+    <CreatedAt>1688705863337</CreatedAt>
+    <LastModifiedAt>1688705966095</LastModifiedAt>
+    <Policies>
+        <Policy>Quota-1</Policy>
+    </Policies>
+    <SharedFlows>
+        <SharedFlow>default</SharedFlow>
+    </SharedFlows>
+    <subType>SharedFlow</subType>
+</SharedFlowBundle>
